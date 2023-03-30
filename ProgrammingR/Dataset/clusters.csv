@@ -1,0 +1,7 @@
+,Age,Work_Experience,Family_Size,Gender_Female,Ever_Married_No,Graduated_No,Profession_Doctor,Profession_Engineer,Profession_Entertainment,Profession_Executive,Profession_Healthcare,Profession_Homemaker,Profession_Lawyer,Profession_Marketing,Spending_Score_Average,Spending_Score_High,
+Young Single Parent, 0.13 , -0.06 , -0.14 , -0.04 , -0.83 , -0.20 , 3.21 , -0.31 , -0.37 , -0.29 , -0.44 , -0.16 , -0.28 , -0.19 , 0.90 , -0.18 ,
+Old Lawyers/Executives, -0.04 , 0.04 , -0.05 , -0.37 , -0.04 , 0.01 , -0.31 , -0.31 , 2.69 , -0.29 , -0.44 , -0.16 , -0.28 , -0.19 , 0.20 , -0.31 ,
+Young Single Marketeers, -1.02 , -0.01 , 0.61 , -0.07 , 0.98 , 0.59 , -0.31 , -0.31 , -0.37 , -0.28 , 2.23 , -0.16 , -0.28 , -0.19 , -0.50 , -0.34 ,
+Young Doctors, 0.77 , -0.26 , -0.07 , -0.21 , -0.79 , -0.27 , -0.31 , -0.30 , -0.37 , 0.49 , -0.43 , -0.15 , 0.50 , -0.16 , 0.31 , 0.57 ,
+Male Entertainer, -0.27 , 0.34 , -0.26 , 0.50 , 0.40 , -0.03 , -0.31 , 0.83 , -0.37 , -0.26 , -0.44 , 0.44 , -0.27 , 0.48 , -0.21 , -0.31 ,
+Medium Spending Engineers, -0.76 , 0.03 , 0.13 , -0.02 , 1.08 , 0.34 , 3.21 , -0.31 , -0.37 , -0.29 , -0.44 , -0.16 , -0.28 , -0.19 , -0.58 , -0.41 ,
